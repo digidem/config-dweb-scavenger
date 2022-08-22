@@ -1,0 +1,17 @@
+{
+    "icon": "shower",
+    "color": "#08B6BD",
+    "fields": [
+        "name"
+    ],
+    "geometry": [
+        "point"
+
+    ],
+    "tags": {
+        "type" : "shower"
+
+    },
+    "terms":["shower","dwebcamp"],
+    "name": "Shower"
+}

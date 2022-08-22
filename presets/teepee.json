@@ -1,8 +1,8 @@
 {
     "icon": "camp",
-    "color": "#B209B2",
+    "color": "#336BCC",
     "fields": [
-        "owner"
+        "name"
     ],
     "geometry": [
         "point"
@@ -12,6 +12,6 @@
         "type" : "camp"
 
     },
-    "terms":["campsite", "camping", "hunting"],
-    "name": "Camp"
+    "terms":["camp","dwebcamp"],
+    "name": "Teepee"
 }

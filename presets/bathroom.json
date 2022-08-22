@@ -1,0 +1,17 @@
+{
+    "icon": "bathroom",
+    "color": "#E082CA",
+    "fields": [
+        "name"
+    ],
+    "geometry": [
+        "point"
+
+    ],
+    "tags": {
+        "type" : "bathroom"
+
+    },
+    "terms":["bathroom","dwebcamp"],
+    "name": "Bathroom"
+}
