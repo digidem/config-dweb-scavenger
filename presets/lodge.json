@@ -1,0 +1,17 @@
+{
+    "icon": "building",
+    "color": "#4B7767",
+    "fields": [
+        "name"
+    ],
+    "geometry": [
+        "point"
+
+    ],
+    "tags": {
+        "type" : "Lodge"
+
+    },
+    "terms":["Lodge","dwebcamp"],
+    "name": "Lodge"
+}

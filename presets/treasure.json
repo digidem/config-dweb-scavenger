@@ -1,0 +1,17 @@
+{
+    "icon": "Treasure",
+    "color": "#F7F70D",
+    "fields": [
+        "name"
+    ],
+    "geometry": [
+        "point"
+
+    ],
+    "tags": {
+        "type" : "Treasure"
+
+    },
+    "terms":["Treasure","dwebcamp"],
+    "name": "Treasure"
+}

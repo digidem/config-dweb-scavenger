@@ -1,0 +1,17 @@
+{
+    "icon": "firstAid",
+    "color": "#DE2727",
+    "fields": [
+        "name"
+    ],
+    "geometry": [
+        "point"
+
+    ],
+    "tags": {
+        "type" : "First Aid"
+
+    },
+    "terms":["First Aid","dwebcamp"],
+    "name": "First Aid"
+}

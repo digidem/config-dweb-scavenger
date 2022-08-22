@@ -1,0 +1,17 @@
+{
+    "icon": "Other",
+    "color": "#8CC6D1",
+    "fields": [
+        "name"
+    ],
+    "geometry": [
+        "point"
+
+    ],
+    "tags": {
+        "type" : "Other"
+
+    },
+    "terms":["Other","dwebcamp"],
+    "name": "Other"
+}

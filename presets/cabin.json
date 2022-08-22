@@ -1,0 +1,17 @@
+{
+    "icon": "cabin",
+    "color": "#8941D4",
+    "fields": [
+        "name"
+    ],
+    "geometry": [
+        "point"
+
+    ],
+    "tags": {
+        "type" : "cabin"
+
+    },
+    "terms":["cabin","dwebcamp"],
+    "name": "Cabin"
+}

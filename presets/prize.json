@@ -1,0 +1,17 @@
+{
+    "icon": "Prize",
+    "color": "#FEFE47",
+    "fields": [
+        "name"
+    ],
+    "geometry": [
+        "point"
+
+    ],
+    "tags": {
+        "type" : "Prize"
+
+    },
+    "terms":["Prize","dwebcamp"],
+    "name": "Prize"
+}

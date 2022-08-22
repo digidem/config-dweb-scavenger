@@ -1,0 +1,17 @@
+{
+    "icon": "clue",
+    "color": "#194D33",
+    "fields": [
+        "name"
+    ],
+    "geometry": [
+        "point"
+
+    ],
+    "tags": {
+        "type" : "clue"
+
+    },
+    "terms":["Paper Clue","dwebcamp"],
+    "name": "Paper Clue"
+}

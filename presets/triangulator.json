@@ -1,0 +1,17 @@
+{
+    "icon": "Triangulator",
+    "color": "#DB8129",
+    "fields": [
+        "name"
+    ],
+    "geometry": [
+        "point"
+
+    ],
+    "tags": {
+        "type" : "Triangulator"
+
+    },
+    "terms":["Triangulator","dwebcamp"],
+    "name": "Triangulator"
+}
