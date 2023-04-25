@@ -1,0 +1,26 @@
+{
+  "presets.terrastories.name": {
+    "description": "The name of preset 'tree'",
+    "message": "Terrastories"
+  },
+  "presets.bathroom.name": {
+    "description": "The name of preset 'bathroom'",
+    "message": "Banheiro"
+  },
+  "presets.cabin.name": {
+    "description": "The name of preset 'cabin'",
+    "message": "Cabine"
+  },
+  "presets.lodge.name": {
+    "description": "The name of preset 'lodge'",
+    "message": "Alojamento"
+  },
+  "presets.other.name": {
+    "description": "The name of preset 'other'",
+    "message": "Outro"
+  },
+  "presets.shower.name": {
+    "description": "The name of preset 'shower'",
+    "message": "Chuveiro"
+  }
+}
