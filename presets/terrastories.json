@@ -1,0 +1,17 @@
+{
+    "icon": "terrastories",
+    "color": "#ff6600",
+    "fields": [
+        "name"
+    ],
+    "geometry": [
+        "point"
+
+    ],
+    "tags": {
+        "type" : "terrastories"
+
+    },
+    "terms":["terrastories","dwebcamp"],
+    "name": "Terrastories"
+}

@@ -1,6 +1,6 @@
 {
   "name": "mapeo-workshop-dweb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mapeo config for treasure hunt",
   "dependencies": {},
   "devDependencies": {
